@@ -6,8 +6,8 @@ h1{
     font-weight: 900;
 }
 .para{
-    border: 3px solid blue;
-    background-color: skyblue;
+    border: 3px solid rgb(79, 79, 205);
+    background-color: rgb(125, 230, 179);
     margin: 20px 100px ;
     border-radius: 20px;
     padding-left: 25px;
@@ -19,7 +19,7 @@ h1{
     color: red;
 }
 .para p{
-    color: rgb(211, 18, 169)  ;
+    color: rgb(0, 0, 0)  ;
     text-align:justify;
 
 }
