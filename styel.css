@@ -1,0 +1,25 @@
+h1{
+    margin-left: 100px;
+    text-align: center;
+    font-size: 2em;
+    color: rgb(214, 72, 24);
+    font-weight: 900;
+}
+.para{
+    border: 3px solid blue;
+    background-color: skyblue;
+    margin: 20px 100px ;
+    border-radius: 20px;
+    padding-left: 25px;
+    padding-right: 10px;
+    
+    
+}
+.author{
+    color: red;
+}
+.para p{
+    color: rgb(211, 18, 169)  ;
+    text-align:justify;
+
+}
