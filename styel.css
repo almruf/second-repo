@@ -1,6 +1,6 @@
 .para img{
-    height: 200px;
-    width: 490px;
+    height: 300px;
+    width: 900px;
 
 }
 h1{
@@ -13,7 +13,7 @@ h1{
 .para{
     border: 3px solid rgb(79, 79, 205);
     background-color: rgb(125, 230, 179);
-    margin: 20px 100px ;
+    margin: 20px 200px ;
     border-radius: 20px;
     padding-left: 25px;
     padding-right: 10px;
